@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shafinaz
-- 👀 I'm working as a Front end developer at ZeMind Gaming Studio.
-- 🌱 I’m currently learning lit.html
+- 👀 I'm working as a Developer at ShareVision.
+- 🌱 I’m currently learning razor html
 - 📫 You can reach me at:  shafinaz2006@gmail.com
 
 <!---
